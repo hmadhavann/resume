@@ -1,5 +1,5 @@
 # Hima Madhavan
 #
-#Web Resume
+# Web Resume
 #
-#email: himajmadhavan@lewisu.edu
+# email: himajmadhavan@lewisu.edu
